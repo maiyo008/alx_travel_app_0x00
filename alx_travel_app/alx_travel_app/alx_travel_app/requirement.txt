@@ -1,1 +1,4 @@
 AirBnB Project Requirements
+All the requirements of the airbnb project are listed as follows:
+
+
